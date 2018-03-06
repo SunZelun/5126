@@ -1,0 +1,5 @@
+off_rb,assist,effective_field_goal,turn_over,season,age,team,field_goal,points,field_goal_total,minutes_played,position,def_rb,stats_type,steal,block,game_played
+0,1,.700,3,2008-09,26,HOU,3,7,5,11,SF,0,regular,1,1,4
+5,29,.491,17,2012-13,30,NYK,50,125,116,435,SF,43,regular,13,4,57
+1,0,.389,1,2008-09,26,HOU,3,7,9,12,SF,0,playoffs,0,0,5
+1,0,.500,0,2012-13,30,NYK,2,4,4,9,SF,1,playoffs,0,0,4

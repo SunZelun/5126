@@ -1,0 +1,8 @@
+off_rb,assist,effective_field_goal,turn_over,season,age,team,field_goal,points,field_goal_total,minutes_played,position,def_rb,stats_type,steal,block,game_played
+142,43,.503,71,2013-14,20,OKC,93,265,185,1197,C,190,regular,40,57,81
+199,66,.544,99,2014-15,21,OKC,217,537,399,1771,C,324,regular,38,86,70
+219,62,.613,84,2015-16,22,OKC,261,636,426,2014,C,314,regular,42,89,80
+281,86,.571,146,2016-17,23,OKC,374,905,655,2389,C,332,regular,89,78,80
+22,4,.689,10,2013-14,20,OKC,31,70,45,331,C,52,playoffs,1,24,18
+62,13,.613,17,2015-16,22,OKC,68,182,111,553,C,109,playoffs,9,14,18
+17,7,.643,4,2016-17,23,OKC,18,40,28,157,C,17,playoffs,6,9,5

@@ -1,0 +1,5 @@
+off_rb,assist,effective_field_goal,turn_over,season,age,team,field_goal,points,field_goal_total,minutes_played,position,def_rb,stats_type,steal,block,game_played
+6,20,.475,8,2008-09,25,TOT,44,119,120,276,PG,16,regular,10,1,29
+4,19,.495,7,2008-09,25,NYK,39,107,103,253,PG,11,regular,10,1,23
+2,1,.353,1,2008-09,25,CHI,5,12,17,23,PG,5,regular,0,0,6
+1,0,1.000,1,2008-09,25,CHI,3,8,4,4,PG,0,playoffs,2,0,1
