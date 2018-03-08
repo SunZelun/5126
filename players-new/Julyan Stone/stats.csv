@@ -1,0 +1,6 @@
+off_rb,assist,effective_field_goal,turn_over,season,age,team,field_goal,points,field_goal_total,minutes_played,position,def_rb,stats_type,steal,block,game_played
+5,37,.452,11,2011-12,23,DEN,13,36,31,179,SG,20,regular,8,6,22
+2,2,1.000,2,2012-13,24,DEN,2,7,2,28,PG,1,regular,1,0,4
+2,12,.471,5,2013-14,25,TOR,7,18,17,120,SG,18,regular,3,0,21
+1,2,.500,0,2011-12,23,DEN,1,2,2,5,SG,0,playoffs,0,0,2
+0,1,,0,2012-13,24,DEN,0,2,0,13,PG,0,playoffs,0,0,2

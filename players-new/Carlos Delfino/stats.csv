@@ -1,0 +1,9 @@
+off_rb,assist,effective_field_goal,turn_over,season,age,team,field_goal,points,field_goal_total,minutes_played,position,def_rb,stats_type,steal,block,game_played
+66,145,.492,75,2007-08,25,TOR,251,738,632,1928,SG,293,regular,69,11,82
+51,202,.500,119,2009-10,27,MIL,299,825,732,2279,SF,343,regular,80,21,75
+24,112,.492,57,2010-11,28,MIL,200,565,513,1590,SF,176,regular,76,8,49
+20,123,.497,66,2011-12,29,MIL,182,488,453,1537,SF,188,regular,79,10,54
+18,135,.532,72,2012-13,30,HOU,251,708,620,1689,SF,202,regular,68,9,67
+5,11,.459,3,2007-08,25,TOR,15,43,37,121,SG,19,playoffs,4,0,5
+3,18,.459,12,2009-10,27,MIL,26,70,73,226,SF,25,playoffs,5,2,7
+1,10,.513,5,2012-13,30,HOU,15,45,40,120,SF,11,playoffs,3,1,5

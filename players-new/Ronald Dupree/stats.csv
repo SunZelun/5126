@@ -1,0 +1,5 @@
+off_rb,assist,effective_field_goal,turn_over,season,age,team,field_goal,points,field_goal_total,minutes_played,position,def_rb,stats_type,steal,block,game_played
+1,1,.333,0,2007-08,27,TOT,1,4,3,21,SF,7,regular,1,0,5
+0,0,,0,2007-08,27,DET,0,0,0,3,SF,0,regular,0,0,1
+1,1,.333,0,2007-08,27,SEA,1,4,3,18,SF,7,regular,1,0,4
+0,1,.250,0,2010-11,30,TOR,1,2,4,13,SF,3,regular,0,0,3

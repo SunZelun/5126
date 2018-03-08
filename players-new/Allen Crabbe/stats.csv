@@ -1,0 +1,8 @@
+off_rb,assist,effective_field_goal,turn_over,season,age,team,field_goal,points,field_goal_total,minutes_played,position,def_rb,stats_type,steal,block,game_played
+1,6,.455,3,2013-14,21,POR,12,33,33,100,SG,8,regular,2,1,15
+7,39,.510,15,2014-15,22,POR,63,168,153,683,SG,66,regular,19,15,51
+27,99,.541,64,2015-16,23,POR,311,832,678,2105,SG,189,regular,63,16,81
+19,94,.572,62,2016-17,24,POR,303,845,647,2254,SG,207,regular,54,20,79
+0,1,1.000,1,2014-15,22,POR,4,10,5,39,SG,3,playoffs,2,1,2
+5,15,.623,6,2015-16,23,POR,38,105,73,302,SG,27,playoffs,7,1,11
+0,2,.438,1,2016-17,24,POR,9,22,24,92,SG,12,playoffs,1,0,4

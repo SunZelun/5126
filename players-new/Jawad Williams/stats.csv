@@ -1,0 +1,5 @@
+off_rb,assist,effective_field_goal,turn_over,season,age,team,field_goal,points,field_goal_total,minutes_played,position,def_rb,stats_type,steal,block,game_played
+1,0,.500,1,2008-09,25,CLE,5,12,12,20,SF,1,regular,1,0,10
+16,34,.466,18,2009-10,26,CLE,81,224,206,742,PG,67,regular,12,5,54
+7,22,.377,16,2010-11,27,CLE,41,104,126,391,SF,41,regular,9,3,26
+0,0,.000,0,2009-10,26,CLE,0,0,2,4,PG,0,playoffs,0,0,3

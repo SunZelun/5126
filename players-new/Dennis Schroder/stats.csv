@@ -1,0 +1,9 @@
+off_rb,assist,effective_field_goal,turn_over,season,age,team,field_goal,points,field_goal_total,minutes_played,position,def_rb,stats_type,steal,block,game_played
+5,93,.410,61,2013-14,20,ATL,72,183,188,641,PG,55,regular,17,0,49
+29,317,.466,150,2014-15,21,ATL,284,768,665,1516,PG,135,regular,49,4,77
+25,349,.471,183,2015-16,22,ATL,329,879,781,1621,PG,179,regular,70,9,80
+42,499,.493,258,2016-17,23,ATL,548,1414,1214,2485,PG,206,regular,74,16,79
+0,0,1.250,0,2013-14,20,ATL,2,5,2,7,PG,2,playoffs,0,0,2
+5,62,.414,27,2014-15,21,ATL,56,144,145,290,PG,24,playoffs,9,0,16
+6,36,.510,21,2015-16,22,ATL,47,117,104,191,PG,13,playoffs,4,1,10
+4,46,.532,10,2016-17,23,ATL,50,148,110,211,PG,10,playoffs,6,0,6
