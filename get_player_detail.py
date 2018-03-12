@@ -54,10 +54,10 @@ def get_page_content(url):
 def get_player_detail(url):
     print url
     global INTERNET_CONNECTION
-    if skip_url(url):
-        INTERNET_CONNECTION = False
-        print "duplicate url: " + url
-        return True
+    # if skip_url(url):
+    #     INTERNET_CONNECTION = False
+    #     print "duplicate url: " + url
+    #     return True
 
     global VALID_SEASON_LIST
     INTERNET_CONNECTION = True
@@ -66,6 +66,17 @@ def get_player_detail(url):
     if webpage is False:
         print "Error on retrieving URL content"
         return False
+
+    # store html content to offline file
+    # player_profile_html = open("player_profile.html", "w")
+    # player_profile_html.write(webpage)
+    # player_profile_html.close()
+
+    # use regex to retrieve player's basic profile
+    # name = re.search(r'name">(.*?)</h1>', webpage).group(1)
+    # height = re.search(r'(\d{3}?)cm', webpage).group(1)
+    # weight = re.search(r'(\d{2,3}?)kg', webpage).group(1)
+    # dob = re.search(r'data-birth="((\d{4})+(-(\d{2})+)+(-(\d{2})+))"', webpage).group(1)
 
     soup = BeautifulSoup(webpage, "html.parser")
 

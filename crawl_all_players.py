@@ -4,6 +4,7 @@ import csv
 import requests
 import time
 import os
+import re
 
 fileIndex = 1
 
@@ -28,6 +29,16 @@ def getAllPlayers(url):
     if webpage == False:
         print "Error on retrieving URL content"
         return False
+
+    # store html content to offline file
+    # player_list_html = open("player_list.html", "w")
+    # player_list_html.write(webpage)
+    # player_list_html.close()
+
+    # get urls using regex
+    # print time.time()
+    # urls = re.findall('/players/[a-z]{1}/[a-zA-Z0-9]*.html', webpage)
+    # print time.time()
 
     soup = BeautifulSoup(webpage,"html.parser")
 
