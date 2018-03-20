@@ -54,10 +54,10 @@ def get_page_content(url):
 def get_player_detail(url):
     print url
     global INTERNET_CONNECTION
-    # if skip_url(url):
-    #     INTERNET_CONNECTION = False
-    #     print "duplicate url: " + url
-    #     return True
+    if skip_url(url):
+        INTERNET_CONNECTION = False
+        print "duplicate url: " + url
+        return True
 
     global VALID_SEASON_LIST
     INTERNET_CONNECTION = True
